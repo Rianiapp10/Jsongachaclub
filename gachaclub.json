@@ -21,19 +21,19 @@
       "ad_status": 1,
       "main_ad": "admob",
       "backup_ad": "none",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
-      "ad_manager_banner_unit_id": "/6499/example/banner",
-      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-      "ad_manager_native_unit_id": "/6499/example/native",
-      "ad_manager_app_open_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
       "startapp_app_id": "0",
-      "unity_game_id": "4089993",
+      "unity_game_id": "0",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
       "applovin_banner_unit_id": "0",
@@ -42,7 +42,7 @@
       "applovin_open_ad_unit_id": "0",
       "applovin_banner_zone_id": "0",
       "applovin_interstitial_zone_id": "0",
-      "ironsource_app_key": "85460dcd",
+      "ironsource_app_key": "0",
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
       "interstitial_ad_interval": 3,
@@ -67,17 +67,17 @@
     {
       "category_id": 1,
       "category_name": "Cute",
-      "category_image": "https://user-images.githubusercontent.com/134954400/242286067-aa23342d-4ef2-4d3d-910d-74c920fb8493.png"
+      "category_image": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/1.png"
     },
     {
       "category_id": 2,
       "category_name": "Aesthetic",
-      "category_image": "https://user-images.githubusercontent.com/134954400/241767844-2f61d1b9-6ec1-4e8c-be85-e6fd6d579640.png"
+      "category_image": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/2.png"
     },
     {
       "category_id": 3,
       "category_name": "Girl",
-      "category_image": "https://user-images.githubusercontent.com/134954400/241768017-3b7f324e-6e19-4edf-a704-d4d48bb6ad65.png"
+      "category_image": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/3.png"
     }
   ],
   "wallpapers": [
@@ -86,111 +86,462 @@
       "category_name": "Cute",
       "wallpaper_name": "Cute 1",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature1.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2001.jpg"
     },
 	{
       "wallpaper_id": 2,
       "category_name": "Cute",
       "wallpaper_name": "Cute 2",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature2.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2002.jpg"
     },
 	{
       "wallpaper_id": 3,
       "category_name": "Cute",
       "wallpaper_name": "Cute 3",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature3.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2003.jpg"
     },
 	{
       "wallpaper_id": 4,
       "category_name": "Cute",
       "wallpaper_name": "Cute 4",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature4.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2004.jpg"
     },
 	{
       "wallpaper_id": 5,
       "category_name": "Cute",
       "wallpaper_name": "Cute 5",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature5.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2005.jpg"
     },
-	{
+    {
       "wallpaper_id": 6,
-      "category_name": "Aesthetic",
-      "wallpaper_name": "Aesthetic 1",
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 6",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset1.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2006.jpg"
     },
 	{
       "wallpaper_id": 7,
-      "category_name": "Aesthetic",
-      "wallpaper_name": "Aesthetic 2",
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 7",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset2.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2007.jpg"
     },
-	{
+    {
       "wallpaper_id": 8,
-      "category_name": "Sunset",
-      "wallpaper_name": "Sunset 3",
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 8",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset3.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2008.jpg"
     },
-	{
+    {
       "wallpaper_id": 9,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 1",
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 9",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal1.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2009.jpg"
     },
 	{
       "wallpaper_id": 10,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 2",
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 10",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal2.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2010.jpg"
     },
-	{
+    {
       "wallpaper_id": 11,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 3",
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 11",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal3.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2011.jpg"
     },
-	{
+    {
       "wallpaper_id": 12,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 4",
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 12",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal4.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2012.jpg"
+    },
+    {
+      "wallpaper_id": 13,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 13",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2013.jpg"
+    },
+    {
+      "wallpaper_id": 14,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 14",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2014.jpg"
+    },
+    {
+      "wallpaper_id": 15,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 15",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2015.jpg"
+    },
+    {
+      "wallpaper_id": 16,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 16",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2016.jpg"
+    },
+    {
+      "wallpaper_id": 17,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 17",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2017.jpg"
+    },
+    {
+      "wallpaper_id": 18,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 18",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2018.jpg"
+    },
+    {
+      "wallpaper_id": 19,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 19",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2019.jpg"
+    },
+    {
+      "wallpaper_id": 20,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 20",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2020.jpg"
+    },
+    {
+      "wallpaper_id": 21,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 21",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/GachaCute/aa411d0188e6420ebf8fcdc24fac303188a35127/Gacha%20Club%20Cute%2021.jpg"
     },
 	{
-      "wallpaper_id": 13,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 5",
+      "wallpaper_id": 22,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 22",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal5.jpg"
-    }
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2001.jpg"
+    },
+	{
+      "wallpaper_id": 23,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 23",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2002.jpg"
+    },
+    {
+      "wallpaper_id": 24,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 24",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2003.jpg"
+    },
+    {
+      "wallpaper_id": 25,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 25",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2004.jpg"
+    },
+    {
+      "wallpaper_id": 26,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 26",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2005.jpg"
+    },
+    {
+      "wallpaper_id": 27,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 27",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2006.jpg"
+    },
+    {
+      "wallpaper_id": 28,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 28",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2007.jpg"
+    },
+    {
+      "wallpaper_id": 29,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 29",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2008.jpg"
+    },
+    {
+      "wallpaper_id": 30,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 30",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2009.jpg"
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 31",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2010.jpg"
+    },
+    {
+      "wallpaper_id": 32,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 32",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2011.jpg"
+    },
+    {
+      "wallpaper_id": 33,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 33",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2012.jpg"
+    },
+    {
+      "wallpaper_id": 34,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 34",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2013.jpg"
+    },
+    {
+      "wallpaper_id": 35,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 35",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2014.jpg"
+    },
+    {
+      "wallpaper_id": 36,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 36",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2015.jpg"
+    },
+    {
+      "wallpaper_id": 37,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 37",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2016.jpg"
+    },
+    {
+      "wallpaper_id": 38,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 38",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2017.jpg"
+    },
+    {
+      "wallpaper_id": 39,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 39",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2018.jpg"
+    },
+    {
+      "wallpaper_id": 40,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 40",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2019.jpg"
+    },
+    {
+      "wallpaper_id": 41,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 41",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2020.jpg"
+    },
+    {
+      "wallpaper_id": 42,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "Aesthetic 42",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachaaesthetic/8d79bcae562c66f716976e15272f27b2899e7cdf/Gacha%20Club%20Aesthetic%2021.jpg"
+    },
+	{
+      "wallpaper_id": 43,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 43",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2001.jpg"
+    },
+	{
+      "wallpaper_id": 44,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 44",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2002.jpg"
+    },
+    {
+      "wallpaper_id": 45,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 45",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2003.jpg"
+    },
+    {
+      "wallpaper_id": 46,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 46",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2004.jpg"
+    },
+    {
+      "wallpaper_id": 47,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 47",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2005.jpg"
+    },
+    {
+      "wallpaper_id": 48,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 48",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2006.jpg"
+    },
+    {
+      "wallpaper_id": 49,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 49",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2007.jpg"
+    },
+    {
+      "wallpaper_id": 50,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 50",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2008.jpg"
+    },
+    {
+      "wallpaper_id": 51,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 51",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2009.jpg"
+    },
+    {
+      "wallpaper_id": 52,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 52",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2010.jpg"
+    },
+    {
+      "wallpaper_id": 53,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 53",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2011.jpg"
+    },
+    {
+      "wallpaper_id": 54,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 54",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2012.jpg"
+    },
+    {
+      "wallpaper_id": 55,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 55",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2013.jpg"
+    },
+    {
+      "wallpaper_id": 56,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 56",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2014.jpg"
+    },
+    {
+      "wallpaper_id": 57,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 57",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2015.jpg"
+    },
+    {
+      "wallpaper_id": 58,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 58",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2016.jpg"
+    },
+    {
+      "wallpaper_id": 59,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 59",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2017.jpg"
+    },
+    {
+      "wallpaper_id": 60,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 60",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2018.jpg"
+    },
+    {
+      "wallpaper_id": 61,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 61",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2019.jpg",
+      "wallpaper_url": ""
+    },
+    {
+      "wallpaper_id": 62,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 62",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2020.jpg"
+    },
+    {
+      "wallpaper_id": 63,
+      "category_name": "Girl",
+      "wallpaper_name": "Girl 63",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Gachagirl/349c03d818b4de0df1b43f25ccf0b1aad58997b7/Gacha%20Club%20Girl%2021.jpg"
+    },
+    
   ],
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "title": "",
+      "image": "",
+      "url": ""
     },
     {
       "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "title": "",
+      "image": "",
+      "url": ""
     },
 	{
       "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
+      "title": "",
+      "image": "",
+      "url": ""
     }
   ]
 }
